@@ -1,7 +1,7 @@
 # Testing Handover
 # 📦 Project Handover – QA / Automation
 
-This repository contains the handover documentation and assets for QA and test automation work previously owned by **Marcio Iwamoto**.
+This repository contains the handover documentation and assets for QA previously owned by **Marcio Iwamoto**.
 
 The goal of this document is to ensure continuity, clarity, and minimal disruption after ownership transfer.
 
