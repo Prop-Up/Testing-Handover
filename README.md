@@ -25,7 +25,6 @@ This handover includes:
 - Automated UI tests
 - API tests (if applicable)
 - Test frameworks and tooling
-- CI/CD integration
 - Test data & environment assumptions
 - Known gaps, risks, and next steps
 
@@ -35,11 +34,10 @@ This handover includes:
 
 ### Frameworks & Tools
 - **Test Runner:** Playwright  
-- **Language:** TypeScript  
-- **Assertions:** Playwright Test / Mocha / Chai _(adjust as needed)_  
-- **Package Manager:** npm / pnpm / yarn  
-- **CI:** GitHub Actions / Jenkins _(adjust)_  
-
+- **Language:** Javascript
+- **Assertions:** Playwright Test / Mocha 
+- **Package Manager:** npm / npx
+  
 ### Test Types
 - UI / E2E tests
 - Smoke / regression coverage
