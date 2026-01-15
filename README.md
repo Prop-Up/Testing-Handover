@@ -10,8 +10,7 @@ The goal of this document is to ensure continuity, clarity, and minimal disrupti
 ## 👤 Ownership
 
 - **Previous Owner:** Marcio Iwamoto  
-- **Team:** Engineering / QA  
-- **Company:** Keyhook  
+- **Team / Role:** Engineering / QA  
 - **Handover Date:** _[13/02/2026]_
 
 > From this date forward, ownership of the items below should be reassigned.
