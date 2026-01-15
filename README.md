@@ -22,7 +22,6 @@ The goal of this document is to ensure continuity, clarity, and minimal disrupti
 This handover includes:
 
 - Automated UI tests
-- API tests (if applicable)
 - Test frameworks and tooling
 - Test data & environment assumptions
 - Known gaps, risks, and next steps
