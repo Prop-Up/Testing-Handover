@@ -1,0 +1,19 @@
+# e2e-tests (Playwright)
+
+End-to-end and integration-style tests for the Keyhook app using Playwright.
+
+This repo is structured to support:
+- Fast local execution
+- Stable CI runs
+- Reusable auth + helpers
+- Clear separation between specs, fixtures, pages, and setup
+
+> ⚠️ No secrets should be committed. Use `.env` locally and CI secrets in pipelines.
+
+---
+
+## ✅ Quick Start
+
+### Install
+```bash
+npm install
